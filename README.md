@@ -10,3 +10,8 @@ function VeryImportantFunction(veryImpArg) {
   }
 }
 ```
+
+- [x] Very Important Task
+- [x] Super secret Task
+- [x] Major Task
+- [ ] Crucial Task
